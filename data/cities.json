@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "de31",
+      "cityName": "Santa Colomba de Somoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-19T15:19:27.356Z",
+      "notes": "Hi how you doing",
+      "position": {
+        "lat": "42.44152505497587",
+        "lng": "-6.39404296875"
+      }
+    },
+    {
+      "id": "a82b",
+      "cityName": "Vila de Rei",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-09-20T04:36:23.520Z",
+      "notes": "i am in portugal",
+      "position": {
+        "lat": "39.643125710223195",
+        "lng": "-8.107910156250002"
+      }
+    },
+    {
+      "id": "35a1",
+      "cityName": "Puente-Genil",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-20T04:38:32.667Z",
+      "notes": "hi i am in new city\n",
+      "position": {
+        "lat": "37.34007290995868",
+        "lng": "-4.7900390625"
+      }
+    }
+  ]
+}
